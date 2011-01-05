@@ -1,0 +1,6 @@
+C:\Dev\Sandbox\arch_1_connection_pooling\arch_1_connection_pooling\bin\Debug\arch_1_connection_pooling.exe
+C:\Dev\Sandbox\arch_1_connection_pooling\arch_1_connection_pooling\bin\Debug\arch_1_connection_pooling.pdb
+C:\Dev\Sandbox\arch_1_connection_pooling\arch_1_connection_pooling\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Dev\Sandbox\arch_1_connection_pooling\arch_1_connection_pooling\obj\x86\Debug\arch_1_connection_pooling.exe
+C:\Dev\Sandbox\arch_1_connection_pooling\arch_1_connection_pooling\obj\x86\Debug\arch_1_connection_pooling.pdb
+C:\Dev\Sandbox\arch_1_connection_pooling\arch_1_connection_pooling\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
